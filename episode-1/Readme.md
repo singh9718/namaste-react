@@ -1,0 +1,15 @@
+# Parcel :-
+    - bundle the files
+    - Minification of files
+    - compress the files
+    - Dev Buiild
+    - Local Server
+    - HMR = Hot Module Replacement -- refreshes the page whenever something changes
+    - parcel uses the 'File Watching Algorithm' written in C++
+    - Caching - faster builds
+    - Image optimization
+    - differential bundling -- supports old browser
+    - diagnostic
+    - error handling
+    - HTTPs
+    - Tree Shaking -- remove unused code
